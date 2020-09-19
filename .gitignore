@@ -59,7 +59,7 @@ Intermediate/*
 DerivedDataCache/*
 
 ThirdParty/*
-Content/*
+# Content/*
 
 # Mac Artifacts
 .DS_Store
